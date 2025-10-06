@@ -1,4 +1,4 @@
-# Image Enhancement
+# Object Detection by Image Segmentation
 Image Segmentation using Otsu Method in Python Notebook
 
 ## Info
